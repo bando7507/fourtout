@@ -1,0 +1,40 @@
+    Manipulation de tableaux :
+        Écrivez une fonction pour trouver la somme des éléments d'un tableau.
+        Créez une fonction pour trouver le plus grand élément dans un tableau.
+        Implémentez une fonction pour fusionner deux tableaux triés en un seul tableau trié.
+
+
+    Manipulation des chaînes de caractères :
+        Écrivez une fonction pour inverser une chaîne de caractères.
+        Créez une fonction pour vérifier si une chaîne est un palindrome.
+        Implémentez une fonction pour compter le nombre d'occurrences d'un caractère dans une chaîne.
+
+    Travail avec les objets :
+        Créez un objet représentant un livre avec des propriétés telles que titre, auteur, et nombre de pages.
+        Écrivez une fonction pour afficher toutes les propriétés d'un objet.
+        Implémentez une fonction pour vérifier si une clé existe dans un objet.
+
+    Fonctions et portée des variables :
+        Écrivez une fonction pour calculer la factorielle d'un nombre.
+        Créez une fonction qui renvoie une fonction de comparaison pour trier un tableau d'objets par une propriété donnée.
+        Implémentez une fonction pour générer un nombre aléatoire dans une plage donnée.
+
+    Gestion des erreurs :
+        Écrivez une fonction qui lève une exception si un nombre est négatif.
+        Créez une fonction pour gérer une promesse et la résoudre ou la rejeter en fonction d'une condition.
+        Implémentez une fonction pour valider un formulaire avec des règles spécifiées.
+
+    Callbacks, Promises et Async/Await :
+        Écrivez une fonction prenant un callback et l'exécutant après un délai donné.
+        Créez une fonction utilisant des promesses pour charger des données depuis un fichier JSON.
+        Implémentez une fonction asynchrone pour récupérer des données depuis une API.
+
+    Manipulation du DOM :
+        Créez une page HTML simple avec des éléments comme des boutons, des formulaires, etc.
+        Écrivez des fonctions pour manipuler ces éléments en utilisant JavaScript.
+        Implémentez des fonctionnalités telles que la validation de formulaire, l'affichage/masquage d'éléments, etc.
+
+    Tests unitaires :
+        Utilisez un framework de test comme Jest pour écrire des tests unitaires pour vos fonctions.
+        Testez différents cas d'entrée/sortie pour chaque fonction.
+        Assurez-vous que vos fonctions passent tous les tests avec succès.
